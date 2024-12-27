@@ -4,4 +4,15 @@ It's just a file sorter.
 
 # Usage
 Upon opening, you will be greeted by a terminal window.
-You enter the folder that you want to sort in the format DriveLetter:\FolderName. MAKE SURE TO USE BACKSLASHES (\) INSTEAD OF FORWARDSLASHES (/)!
+You enter the folder that you want to sort in the format:
+DriveLetter:\FolderName
+MAKE SURE TO USE BACKSLASHES (\) INSTEAD OF FORWARDSLASHES (/)!
+
+# Correct syntax
+Drive:\FolderName\OptionalSecondFolder\ETC
+
+# Incorrect syntax
+FolderName (on its own)
+
+If you are sorting a drive;
+DriveName (rather than the letter)
