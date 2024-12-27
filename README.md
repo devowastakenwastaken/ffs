@@ -9,7 +9,7 @@ DriveLetter:\FolderName
 MAKE SURE TO USE BACKSLASHES (\) INSTEAD OF FORWARDSLASHES (/)!
 
 # Correct syntax
-Drive:\FolderName\OptionalSecondFolder\ETC
+DriveLetter:\FolderName\OptionalSecondFolder\ETC
 
 # Incorrect syntax
 FolderName (on its own)
